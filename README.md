@@ -4,7 +4,7 @@ I'm Nayra, student (and enthusiast) of data analysis. And I intend to use the pl
 
 ### 🌎 Social Media
 <a href="https://linkedin.com/in/nayra-cris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayra-cris" height="30" width="40" /></a>
-<a href="https://instagram.com/nayra.cris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayra.cris" height="30" width="40" /></a>
+<a href="https://instagram.com/nayra.chris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayra.cris" height="30" width="40" /></a>
 <a href="https://www.behance.net/nayra.cris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nayra.cris" height="30" width="40" /></a>
 </p>
 
